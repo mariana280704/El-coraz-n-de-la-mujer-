@@ -1,0 +1,1678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El corazón de la mujer: Margarita</title>
+            <author>Soledad Acosta de Samper</author>
+            <editor>Mariana Acevedo García</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>De libre acceso</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <pubPlace>Colombia</pubPlace>
+               <publisher>Biblioteca nacional de Colombia</publisher>
+               <date>1869</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Para llevar a cabo el proceso de fijación de <hi rend="italic">El corazón de la
+                  mujer: Margarita</hi> se aplicaron regularizaciones, tanto a cambios como a
+               variantes, con el fin de construir una edición académica que integre las
+               actualizaciones que ha enfrentado nuestra lengua y conserve la esencia característica
+               de Soledad Acosta. </p>
+            <p>En primera instancia, se hizo la revisión de los errores accidentales de la obra, es
+               decir, aquellos que se encuentran en un nivel sintáctico y no causan alteraciones
+               contundentes en el sentido del texto. Estas variantes están directamente relacionadas
+               con las actualizaciones del sistema ortográfico y, por tanto, incorporan el análisis
+               de fallos en la acentuación, omisión, duplicación o adición de elementos que alteren
+               las convenciones actuales de la lengua. Dicho esto, la actual edición toma como
+               criterio editorial la última entrega de la ortografía de la lengua española (2010)
+               para la revisión de variantes del texto base (1869). </p>
+            <p>El primer criterio para tener en cuenta es la actualización del sistema de
+               acentuación de las palabras graves y agudas, tanto para aquellas que cuentan con
+               acento gráfico innecesario, como para aquellas que prescinden erróneamente de él; a
+               su vez, se corrigieron los acentos gráficos de los diferentes monosílabos (RAE, 2010,
+               § 3.1.1). En segundo lugar, se eliminaron los espacios vacíos duplicados y mal
+               posicionados. También se tuvo en cuenta la ortografía de los números cardinales, con
+               el fin de estandarizar su expresión a lo largo del texto (RAE, 2010, § 3.1). Se
+               regularizó la cantidad de puntos suspensivos (3) para ajustar el símbolo a las normas
+               actuales (RAE, 2010, § 3.4.10). Por otro lado, se agregaron signos de apertura a las
+               expresiones interrogativas y exclamativas para delimitar correctamente su
+               segmentación (RAE, 2010, § 3.4.9) y se sustituyeron las comillas inglesas por
+               comillas angulares para cumplir las sugerencias de uso del momento (RAE, 2010,
+               §3.4.8). Finalmente, se llevó a cabo un análisis minucioso para efectuar el uso de la
+               coma en oraciones de relativo explicativas —marcar incisos—, al igual que se
+               suprimieron las comas que interferían en las oraciones de relativo especificativas
+               (RAE, 2010, § 3.4.2.2.4.2.1). Sobre esta misma línea, también se hicieron
+               modificaciones en los elementos coordinados, al eliminar comas que interferían con
+               las conjunciones copulativas simples (RAE, 2010, § 3.4.2.2.3.1). </p>
+            <p>En segunda instancia, se consideraron los errores sustanciales del texto, los cuales
+               se posicionan en un nivel semántico y, a diferencia de los anteriores, pueden alterar
+               su significado o interpretación, al modificar las intenciones del autor y depender de
+               contextos específicos. En ese orden de ideas, este proyecto pretende abordar los
+               cambios de la obra mediante un aparato crítico que busca la sinergia entre el usus
+               escribendi de Soledad Acosta —en otras palabras, los hábitos estilísticos y
+               lingüísticos que caracterizan la pluma de la autora—, el uso de la lengua que propone
+               nuestra época y el usus escribendi de la editora —es decir, las costumbres
+               lingüísticas y críticas del responsable de la edición—. Esta fusión tiene el
+               propósito de transmitir al lector una visión que enriquezca el texto sin dejar de
+               lado las convenciones que componen nuestra escritura contemporánea, ni el estilo e
+               intenciones que caracterizaron la voz de Samper en su época. Cada cambio procura que
+               el texto conserve la esencia de las pausas, tonalidades e intervenciones de cada
+               personaje, para ofrecer una forma pertinente para el lector de hoy, sin olvidar la
+               fidelidad a la forma que forjó su autora. </p>
+            <p>En este caso el aparato crítico se compone de tres elementos centrales: para
+               comenzar, se regularizó la enmarcación de comentarios del narrador mediante el uso de
+               la raya. Este cambio ayudó a delimitar el comienzo y el final de las intervenciones
+               del narrador durante los diálogos y, además, reconoció el uso de verbos de lengua,
+               los cuales deben estar precedidos por una raya para lograr distinguir la voz del
+               personaje de la voz del narrador (RAE, 2010, § 3.4.7.1.3). En segundo lugar, se
+               señalaron las cesiones de voz que el narrador otorga a los personajes con el uso de
+               dos puntos para conservar el estilo directo libre de la autora y garantizar una
+               transición oportuna entre las diferentes voces (RAE, 2010, § 3.4.4.2.3). En
+               consonancia con lo anterior, también se adecuó el uso de los dos puntos, ya que en
+               algunos casos incumplían la relación de explicación, enumeración o consecuencia, por
+               lo que se cambiaron por comas o puntos, según lo requirió cada caso (RAE, 2010, §
+               3.4.4.2). Por último, se hicieron modificaciones en la segmentación del diálogo
+               extenso del indio, con la intensión de mantener la fluidez de su discurso y evitar la
+               separación de los complementos narrativos de su historia. </p>
+            <p>En síntesis, la presente edición identifica diversos errores accidentales y
+               sustanciales, que al transformarse enriquecen la lectura y estructura de la obra de
+               Soledad Acosta. </p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="f1">
+         <graphic
+            url="https://raw.githubusercontent.com/mariana280704/El-coraz-n-de-la-mujer-/8f1c722764bb8dd5f4d71f91ae98dec33ace0f90/el%20coraz%C3%B3n%20de%20la%20mujer%20im%C3%A1genes.01.jpg"
+            mimeType="image/jpeg" width="400px"> </graphic>
+      </surface>
+      <surface xml:id="f2">
+         <graphic
+            url="https://raw.githubusercontent.com/mariana280704/El-coraz-n-de-la-mujer-/8f1c722764bb8dd5f4d71f91ae98dec33ace0f90/el%20coraz%C3%B3n%20de%20la%20mujer%20im%C3%A1genes.02.jpg"
+            mimeType="image/jpeg" width="400px"> </graphic>
+      </surface>
+      <surface xml:id="f3">
+         <graphic
+            url="https://raw.githubusercontent.com/mariana280704/El-coraz-n-de-la-mujer-/8f1c722764bb8dd5f4d71f91ae98dec33ace0f90/el%20coraz%C3%B3n%20de%20la%20mujer%20im%C3%A1genes.03.jpg"
+            mimeType="image/jpeg" width="400px"> </graphic>
+      </surface>
+      <surface xml:id="f4">
+         <graphic
+            url="https://raw.githubusercontent.com/mariana280704/El-coraz-n-de-la-mujer-/8f1c722764bb8dd5f4d71f91ae98dec33ace0f90/el%20coraz%C3%B3n%20de%20la%20mujer%20im%C3%A1genes.04.jpg"
+            mimeType="image/jpeg" width="400px"> </graphic>
+      </surface>
+      <surface xml:id="f5">
+         <graphic
+            url="https://raw.githubusercontent.com/mariana280704/El-coraz-n-de-la-mujer-/8f1c722764bb8dd5f4d71f91ae98dec33ace0f90/el%20coraz%C3%B3n%20de%20la%20mujer%20im%C3%A1genes.05.jpg"
+            mimeType="image/jpeg" width="400px"> </graphic>
+      </surface>
+      <surface xml:id="f6">
+         <graphic
+            url="https://raw.githubusercontent.com/mariana280704/El-coraz-n-de-la-mujer-/8f1c722764bb8dd5f4d71f91ae98dec33ace0f90/el%20coraz%C3%B3n%20de%20la%20mujer%20im%C3%A1genes.06.jpg"
+            mimeType="image/jpeg" width="400px"> </graphic>
+      </surface>
+      <surface xml:id="f7">
+         <graphic
+            url="https://raw.githubusercontent.com/mariana280704/El-coraz-n-de-la-mujer-/b5264e704593b62ef56083f82120e27eb75921d0/el%20coraz%C3%B3n%20de%20la%20mujer%20im%C3%A1genes.07.jpg"
+            mimeType="image/jpeg" width="400px"> </graphic>
+      </surface>
+      <surface xml:id="f8">
+         <graphic
+            url="https://raw.githubusercontent.com/mariana280704/El-coraz-n-de-la-mujer-/b5264e704593b62ef56083f82120e27eb75921d0/el%20coraz%C3%B3n%20de%20la%20mujer%20im%C3%A1genes.08.jpg"
+            mimeType="image/jpeg" width="400px"> </graphic>
+      </surface>
+      <surface xml:id="f9">
+         <graphic
+            url="https://raw.githubusercontent.com/mariana280704/El-coraz-n-de-la-mujer-/b5264e704593b62ef56083f82120e27eb75921d0/el%20coraz%C3%B3n%20de%20la%20mujer%20im%C3%A1genes.09.jpg"
+            mimeType="image/jpeg" width="400px"> </graphic>
+      </surface>
+      <surface xml:id="f10">
+         <graphic
+            url="https://raw.githubusercontent.com/mariana280704/El-coraz-n-de-la-mujer-/b5264e704593b62ef56083f82120e27eb75921d0/el%20coraz%C3%B3n%20de%20la%20mujer%20im%C3%A1genes.10.jpg"
+            mimeType="image/jpeg" width="400px"> </graphic>
+      </surface>
+      <surface xml:id="f11">
+         <graphic
+            url="https://raw.githubusercontent.com/mariana280704/El-coraz-n-de-la-mujer-/b5264e704593b62ef56083f82120e27eb75921d0/el%20coraz%C3%B3n%20de%20la%20mujer%20im%C3%A1genes.11.jpg"
+            mimeType="image/jpeg" width="400px"> </graphic>
+      </surface>
+      <surface xml:id="f12">
+         <graphic
+            url="https://raw.githubusercontent.com/mariana280704/El-coraz-n-de-la-mujer-/b5264e704593b62ef56083f82120e27eb75921d0/el%20coraz%C3%B3n%20de%20la%20mujer%20im%C3%A1genes.12.jpg"
+            mimeType="image/jpeg" width="400px"> </graphic>
+      </surface>
+      <surface xml:id="f13">
+         <graphic
+            url="https://raw.githubusercontent.com/mariana280704/El-coraz-n-de-la-mujer-/b5264e704593b62ef56083f82120e27eb75921d0/el%20coraz%C3%B3n%20de%20la%20mujer%20im%C3%A1genes.13.jpg"
+            mimeType="image/jpeg" width="400px"> </graphic>
+      </surface>
+      <surface xml:id="f14">
+         <graphic
+            url="https://raw.githubusercontent.com/mariana280704/El-coraz-n-de-la-mujer-/b5264e704593b62ef56083f82120e27eb75921d0/el%20coraz%C3%B3n%20de%20la%20mujer%20im%C3%A1genes.14.jpg"
+            mimeType="image/jpeg" width="400px"> </graphic>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <listWit>
+            <witness xml:id="A">EL CORAZON DE LA MUJER: MARGARITA (1869)</witness>
+            <witness xml:id="B">EL CORAZON DE LA MUJER: MARGARITA (1887)</witness>
+            <witness xml:id="C">EL CORAZON DE LA MUJER: MARGARITA (2021)</witness>
+         </listWit>
+
+         <div type="obra">
+            <head><hi rend="italic">El corazón de la mujer: Margarita</hi></head>
+            <pb n="1" facs="#f1"/>
+            <p>V<choice>
+                  <orig>.</orig>
+                  <reg/>
+               </choice></p>
+            <p>MARGARITA<choice>
+                  <orig>.</orig>
+                  <reg/>
+               </choice></p>
+            <p><hi rend="italic">Qui voudrait te guérir, immortelle douleur? Tu fais la trame même
+                  et le fond de la vie. S'il se mêle aux jours noirs quelques jours de bonheur,
+                  Comme des grains épars, c'est ton fil qui les lie</hi><choice>
+                  <orig>....</orig>
+                  <reg>...</reg>
+               </choice>
+            </p>
+            <p>ANDRÉ THEURAT.<ref xml:id="n_note1" n="¹" target="#note1">¹</ref></p>
+            <p>La siguiente tarde <choice>
+                  <orig>ántes</orig>
+                  <reg>antes</reg>
+               </choice> de oscurecer nos volvimos <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> reunir y don Felipe dijo con cierto aire conmovido:</p>
+            <p>—Ya que ayer hablábamos del <choice>
+                  <orig>corazon</orig>
+                  <reg>corazón</reg>
+               </choice> de la mujer, quiero, sin <choice>
+                  <orig>mas</orig>
+                  <reg>más</reg>
+               </choice> preámbulos, referirles una historia de la cual tuve conocimiento por varias
+               circunstancias casuales.</p>
+            <p>Todos nos preparamos <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> escucharlo, y él empezó así:</p>
+            <pb n="2" facs="#f2"/>
+            <p>I</p>
+            <p>Sobre un costado del árido y pedregoso cerro de Guadalupe, que domina la ciudad de
+               Bogotá, se <choice>
+                  <orig>veia</orig>
+                  <reg>veía</reg>
+               </choice> en <choice>
+                  <orig>Diciembre</orig>
+                  <reg>diciembre</reg>
+               </choice> de 1841 una pequeña choza cuya limpieza, la blancura de sus paredes y el
+               empedrado que <choice>
+                  <orig>tenia</orig>
+                  <reg>tenía</reg>
+               </choice> delante de su puerta indicaban tal vez pobreza pero no incuria, enfermedad
+               moral de todo el que sufre. La choza estaba rodeada por una cerca de piedras
+               colocadas sin arte ni <choice>
+                  <orig>simetria</orig>
+                  <reg>simetría</reg>
+               </choice> y cubierta por matorrales de espinos, rosales silvestres, borracheros
+               blancos y amarillos<ref xml:id="n_note2" n="²" target="#note2">²</ref>, arbolocos<ref
+                  xml:id="n_note3" n="³" target="#note3">³</ref> y raquíticos cerezos. En torno de
+               la <choice>
+                  <orig>habitacion</orig>
+                  <reg>habitación</reg>
+               </choice>
+               <choice>
+                  <orig>corrian</orig>
+                  <reg>corrían</reg>
+               </choice> y engordaban varios cerdos y gallinas, que <choice>
+                  <orig>vivian</orig>
+                  <reg>vivían</reg>
+               </choice> amistosamente con algunos perros hambrientos y un gato de mal genio. En la
+               parte que quedaba <choice>
+                  <orig>detras</orig>
+                  <reg>detrás</reg>
+               </choice> del rancho se <choice>
+                  <orig>veia</orig>
+                  <reg>veía</reg>
+               </choice> una sementerilla<ref xml:id="n_note4" n="⁴" target="#note4">⁴</ref> de <choice>
+                  <orig>maiz</orig>
+                  <reg>maíz</reg>
+               </choice> y de otras plantas que vegetaban <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> duras penas entre las piedras del cerco. </p>
+            <p>Del lado de afuera de la cerca, en una esquina sombreada por matorrales de rosas y
+               espinos y un cerezo, estaban dos personas sentadas sobre la verde grama. Eran dos
+               jóvenes: un indio robusto y mozo, de cara cuadrada y amarillenta y vestido como
+               soldado de aquella época, es decir<choice>
+                  <orig>&#160;</orig>
+                  <reg>,</reg>
+               </choice> de <choice>
+                  <orig>calzon</orig>
+                  <reg>calzón</reg>
+               </choice> de manta, chaqueta azul con vueltas coloradas y el <choice>
+                  <orig>pié</orig>
+                  <reg>pie</reg>
+               </choice> desnudo; y una muchacha de unos <choice>
+                  <orig>diez y seis años</orig>
+                  <reg>dieciséis</reg>
+               </choice>, <choice>
+                  <orig>tambien</orig>
+                  <reg>también</reg>
+               </choice> de raza indígena, pero algo <choice>
+                  <orig>mas</orig>
+                  <reg>más</reg>
+               </choice> blanca, pequeñita, rolliza y colorada. Esta última, cabizbaja y triste, <choice>
+                  <orig>volvia</orig>
+                  <reg>volvía</reg>
+               </choice> la mirada de vez en cuando <choice>
+                  <orig>hácia</orig>
+                  <reg>hacia</reg>
+               </choice> la choza como si temiese que la vieran desde allí.</p>
+            <p>—<choice>
+                  <orig>Queria</orig>
+                  <reg>Quería</reg>
+               </choice>, Jacoba de mi vida<app>
+                  <lem>—</lem>
+                  <rdg wit="#A">,</rdg>
+                  <rdg wit="#B">,</rdg>
+                  <rdg wit="#C">,</rdg>
+               </app><choice>
+                  <orig>decia</orig>
+                  <reg>decía</reg>
+               </choice> el indio<app>
+                  <lem>—</lem>
+                  <rdg wit="#A">,</rdg>
+                  <rdg wit="#B">,</rdg>
+                  <rdg wit="#C">,</rdg>
+               </app> decirte <choice>
+                  <orig>adios</orig>
+                  <reg>adiós</reg>
+               </choice>
+               <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> solas, pero deseaba <choice>
+                  <orig>tambien</orig>
+                  <reg>también</reg>
+               </choice> explicarte lo que hasta ahora no me <choice>
+                  <orig>habia</orig>
+                  <reg>había</reg>
+               </choice> atrevido <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> confesar... Yo te <choice>
+                  <orig>habia</orig>
+                  <reg>había</reg>
+               </choice> dado mi palabra de casamiento, pero no puedo engañarte más; tu padre me
+               sirvió mucho, me salvó la vida en la <choice>
+                  <orig>accion</orig>
+                  <reg>acción</reg>
+               </choice> de la Culebrera, <choice>
+                  <orig>é</orig>
+                  <reg>e</reg>
+               </choice> impidió que me cogieran prisionero, trayéndome <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> su casa, donde me curaron las heridas... </p>
+            <p>—¿Y porque te asistimos con cariño me quieres abandonar?</p>
+            <p>—No es por eso... al contrario; es que no te quiero engañar, ni <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> tu padre que es un hombre honrado<choice>
+                  <orig>....</orig>
+                  <reg>...</reg>
+               </choice> Jacoba, <choice>
+                  <orig>&#160;</orig>
+                  <reg>¡</reg>
+               </choice>soy casado! </p>
+            <pb n="3" facs="#f3"/>
+            <p>—<choice>
+                  <orig>&#160;</orig>
+                  <reg>¡</reg>
+               </choice>Casado! <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">&#160;</rdg>
+                  <rdg wit="#B">&#160;</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>exclamó la muchacha, levantando las guedejas de pelo negro que le caían sobre
+               los ojos. Miró por un momento espantada <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> su compañero, pero viendo la seriedad con que este hablaba, se separó de su
+               lado y volviéndole la espalda <choice>
+                  <orig>prorumpió</orig>
+                  <reg>prorrumpió</reg>
+               </choice> en amargo llanto. </p>
+            <p>—No llores, vida <choice>
+                  <orig>mia</orig>
+                  <reg>mía</reg>
+               </choice>, que me partes el alma <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">,</rdg>
+                  <rdg wit="#B">,</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>dijo el soldado acercándosele y rodeando con su brazo el ancho talle de la
+               india, <choice>
+                  <orig>miéntras</orig>
+                  <reg>mientras</reg>
+               </choice> ella ocultaba la cara con el pañuelo rabo de gallo que llevaba al pecho—.
+               Escucha, Jacoba <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">,</rdg>
+                  <rdg wit="#B">,</rdg>
+                  <rdg wit="#C">,</rdg>
+               </app>añadió—: ahora un año, viviendo en Funza, una vieja, mi vecina <choice>
+                  <orig>(que</orig>
+                  <reg>(¡</reg>
+               </choice>que Dios la perdone!), se empeñó en casarse conmigo<choice>
+                  <orig>....</orig>
+                  <reg>...</reg>
+               </choice> yo no ganaba nada<choice>
+                  <orig>....</orig>
+                  <reg>...</reg>
+               </choice> ella <choice>
+                  <orig>tenia</orig>
+                  <reg>tenía</reg>
+               </choice> una sementera de papas y un trigal. El señor cura me habló <choice>
+                  <orig>tambien</orig>
+                  <reg>también</reg>
+               </choice> y al fin y al cabo nos casó. Pero <choice>
+                  <orig>apénas</orig>
+                  <reg>apenas</reg>
+               </choice> me remachó<ref xml:id="n_note5" n="⁵" target="#note5">⁵</ref> esa hija de <choice>
+                  <orig>Satanas</orig>
+                  <reg>Satanás</reg>
+               </choice> que se volvió gata brava<choice>
+                  <orig>....</orig>
+                  <reg>...</reg>
+               </choice> Tanto me desesperó, que una noche me fugué de la casa con la <choice>
+                  <orig>intencion</orig>
+                  <reg>intención</reg>
+               </choice> de no volver <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> poner <choice>
+                  <orig>jamas</orig>
+                  <reg>jamás</reg>
+               </choice> los <choice>
+                  <orig>piés</orig>
+                  <reg>pies</reg>
+               </choice> donde ella estuviera. En el Socorro me enganché con los de González y ya
+               sabes lo <choice>
+                  <orig>demas</orig>
+                  <reg>demás</reg>
+               </choice><choice>
+                  <orig>....</orig>
+                  <reg>...</reg>
+               </choice> Aquí me topé contigo y no pude <choice>
+                  <orig>ménos</orig>
+                  <reg>menos</reg>
+               </choice> que quererte cuando me mirabas con esos ojos de miel<choice>
+                  <orig>....</orig>
+                  <reg>...</reg>
+               </choice>
+               <choice>
+                  <orig>pero</orig>
+                  <reg>Pero</reg>
+               </choice> ayer me <choice>
+                  <orig>vió</orig>
+                  <reg>vio</reg>
+               </choice> el taita y me preguntó para <choice>
+                  <orig>cuando</orig>
+                  <reg>cuándo</reg>
+               </choice> era el casorio: esa pregunta me remordió la conciencia, y en lugar de
+               contestarle me <choice>
+                  <orig>fuí</orig>
+                  <reg>fui</reg>
+               </choice> derecho al cuartel y senté otra vez plaza de soldado, pero ahora con los
+               del gobierno. Mañana me voy para Antioquia, como te <choice>
+                  <orig>decia</orig>
+                  <reg>decía</reg>
+               </choice>.</p>
+            <p>Jacoba redobló su llanto, pero no contestaba. </p>
+            <p>—<choice>
+                  <orig>&#160;</orig>
+                  <reg>¡</reg>
+               </choice>Jacoba! <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">&#160;</rdg>
+                  <rdg wit="#B">&#160;</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>exclamó el soldado exasperado<app>
+                  <lem>—</lem>
+                  <rdg wit="#A">&#160;</rdg>
+                  <rdg wit="#B">&#160;</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>. No me guardes ojeriza: mira, aquí te traje esta crucecita para que la
+               ensartes en tu rosario y te acuerdes de mí cada vez que la veas. </p>
+            <pb n="4" facs="#f4"/>
+            <p>La muchacha levantó <choice>
+                  <orig>entónces</orig>
+                  <reg>entonces</reg>
+               </choice> la cabeza y miró al soldado con aire de profunda pena, <choice>
+                  <orig>miéntras</orig>
+                  <reg>mientras</reg>
+               </choice> que por sus mejillas redondas y coloradas <choice>
+                  <orig>corrian</orig>
+                  <reg>corrían</reg>
+               </choice> gruesas lágrimas, como lluvia sobre un campo de amapolas. </p>
+            <p>—No quiero tu cruz <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">,</rdg>
+                  <rdg wit="#B">,</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>dijo al fin rechazándolo y con la voz ahogada por los sollozos añadió<app>
+                  <lem>—</lem>
+                  <rdg wit="#A">&#160;</rdg>
+                  <rdg wit="#B">&#160;</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>: ¿Qué dirá mi taita cuando lo sepa? <choice>
+                  <orig>&#160;</orig>
+                  <reg>¿</reg>
+               </choice>Y mi <choice>
+                  <orig>mama</orig>
+                  <reg>mamá</reg>
+               </choice> que dirá? </p>
+            <p>—¿No quieres ni acordarte más de mí, Jacoba, aunque me maten en la primera <choice>
+                  <orig>accion</orig>
+                  <reg>acción</reg>
+               </choice> en que me halle? </p>
+            <p>Jacoba fijó en él otra vez los llorosos ojos y, vencida por la <choice>
+                  <orig>expresion</orig>
+                  <reg>expresión</reg>
+               </choice> humilde y triste del indio, alargó la mano, recibió la cruz del soldado sin
+               contestar, la miró un momento y se la echó al seno al recoger una vasija llena de
+               agua que <choice>
+                  <orig>tenia</orig>
+                  <reg>tenía</reg>
+               </choice>
+               <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> sus <choice>
+                  <orig>piés</orig>
+                  <reg>pies</reg>
+               </choice>. El indio, para ocultar su enternecimiento, se despidió en silencio y echó <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> andar <choice>
+                  <orig>hácia</orig>
+                  <reg>hacia</reg>
+               </choice> la ciudad. Jacoba se detuvo <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> mirarlo por <choice>
+                  <orig>la</orig>
+                  <reg>&#160;</reg>
+               </choice> última vez, pero oyendo voces por el camino y temiendo encontrarse con <choice>
+                  <orig>álguien</orig>
+                  <reg>alguien</reg>
+               </choice> que le pudiese preguntar la causa de su llanto apresuró el paso, mas al
+               llegar <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> la puerta de madera que separaba del camino el patio de la choza tropezó y
+               cayó al suelo, rompiendo la vasija <choice>
+                  <orig>é</orig>
+                  <reg>e</reg>
+               </choice> inundándose de agua. </p>
+            <p>Se levantó muy abochornada <choice>
+                  <orig>é</orig>
+                  <reg>e</reg>
+               </choice> iba <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> entrar <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> la choza cuando salió de ella una mujer que viendo los tiestos regados por
+               el suelo arremetió sobre ella con un palo de escoba que llevaba en la mano. La
+               tempestad de regaños y gritos duró largo tiempo; se <choice>
+                  <orig>oian</orig>
+                  <reg>oían</reg>
+               </choice>
+               <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> una vez la rabiosa voz de la mujer y las súplicas y quejidos de la víctima,
+               la cual lloraba ruidosamente, más bien <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> causa de la pérdida de su amante que por los golpes que <choice>
+                  <orig>recibia</orig>
+                  <reg>recibía</reg>
+               </choice>. </p>
+            <pb n="5" facs="#f5"/>
+            <p>En esto las personas que sin quererlo ahuyentaron <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> Jacoba llegaban al sitio en que se <choice>
+                  <orig>habian</orig>
+                  <reg>habían</reg>
+               </choice> dicho <choice>
+                  <orig>adios</orig>
+                  <reg>adiós</reg>
+               </choice> los dos indios. Era un grupo de cinco personas. Adelante iban dos alegres
+               niñas de <choice>
+                  <orig>15</orig>
+                  <reg>quince</reg>
+               </choice>
+               <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice>
+               <choice>
+                  <orig>16</orig>
+                  <reg>dieciséis</reg>
+               </choice> años, seguidas de una señora como de cuarenta, de dulce y amable fisonomía,
+               que conversaba con otra mas jóven. Esta, vestida de luto riguroso, era de aquellas
+               personas que vistas una vez no pueden olvidarse: velaban sus grandes ojos negros,
+               largas, sedosas y crespas pestañas y los realzaba el arco perfecto de sus pálidas
+               cejas; pero la sombra azul debajo de sus párpados y la palidez de su rostro indicaban
+               una pena concentrada y profunda. <choice>
+                  <orig>Venia</orig>
+                  <reg>Venía</reg>
+               </choice>
+               <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> su lado un <choice>
+                  <orig>jóven</orig>
+                  <reg>joven</reg>
+               </choice>, cuya vista no se separaba un momento de la enlutada, siguiendo solícito
+               cada paso que daba para ofrecerle su brazo y apoyo. </p>
+            <p>—Detengámonos aquí un momento Margarita <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">,</rdg>
+                  <rdg wit="#B">,</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app> dijo la señora <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> quien llamaremos Justina, dirigiéndose <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> la enlutada. </p>
+            <p>Todas se sentaron: las muchachas <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> algunos pasos de distancia de Margarita, el caballero recostado <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> los <choice>
+                  <orig>piés</orig>
+                  <reg>pies</reg>
+               </choice> de ella sobre la grama y Justina dividiendo los dos grupos. </p>
+            <p>—<choice>
+                  <orig>&#160;</orig>
+                  <reg>¡</reg>
+               </choice>Qué tarde tan bella! <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">&#160;</rdg>
+                  <rdg wit="#B">&#160;</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>exclamó <choice>
+                  <orig>ésta</orig>
+                  <reg>esta</reg>
+               </choice>, fijando sus miradas sobre el alto Monserrate, que iluminado por los rayos
+               del sol brillaba con dorada y suave luz. El cielo estaba azul y <choice>
+                  <orig>trasparente</orig>
+                  <reg>transparente</reg>
+               </choice> y en su apariencia todo respiraba paz y felicidad. </p>
+            <p>—Qué de bellezas en el cielo y tranquilidad en el suelo <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">,</rdg>
+                  <rdg wit="#B">,</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>añadió Margarita<app>
+                  <lem>—,</lem>
+                  <rdg wit="#A">&#160;</rdg>
+                  <rdg wit="#B">&#160;</rdg>
+                  <rdg wit="#C">—,</rdg>
+               </app> ¿no es cierto Eugenio, que las obras de Dios son muy bellas?</p>
+            <p>—<choice>
+                  <orig>&#160;</orig>
+                  <reg>¡</reg>
+               </choice>Encantadoras! <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">&#160;</rdg>
+                  <rdg wit="#B">&#160;</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>contestó <choice>
+                  <orig>éste</orig>
+                  <reg>este</reg>
+               </choice> admirando la <choice>
+                  <orig>expresion</orig>
+                  <reg>expresión</reg>
+               </choice> de dulzura que se leía en ese momento sobre la pálida frente de su
+               compañera. </p>
+            <pb n="6" facs="#f6"/>
+            <p>—¿No es mejor <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">,</rdg>
+                  <rdg wit="#B">,</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>repuso Justina<app>
+                  <lem>—</lem>
+                  <rdg wit="#A">&#160;</rdg>
+                  <rdg wit="#B">&#160;</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>, pasear y contemplar esta naturaleza llena de encantos, que permanecer siempre
+               entre cuatro paredes sombrías? </p>
+            <p>—Ciertamente <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">,</rdg>
+                  <rdg wit="#B">,</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>contestó Margarita<app>
+                  <lem>—</lem>
+                  <rdg wit="#A">&#160;</rdg>
+                  <rdg wit="#B">&#160;</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>, pero<choice>
+                  <orig>....</orig>
+                  <reg>...</reg>
+               </choice>
+               <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">&#160;</rdg>
+                  <rdg wit="#B">&#160;</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>Y una <choice>
+                  <orig>expresion</orig>
+                  <reg>expresión</reg>
+               </choice> de melancolía, <choice>
+                  <orig>expresion</orig>
+                  <reg>expresión</reg>
+               </choice> de dolor concentrado y amargo, se difundió como una sombra por su fisonomía
+               un momento <choice>
+                  <orig>ántes</orig>
+                  <reg>antes</reg>
+               </choice> tan serena. </p>
+            <p>—Margarita <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">,</rdg>
+                  <rdg wit="#B">,</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>dijo en voz baja el <choice>
+                  <orig>jóven</orig>
+                  <reg>joven</reg>
+               </choice><app>
+                  <lem>—</lem>
+                  <rdg wit="#A">&#160;</rdg>
+                  <rdg wit="#B">&#160;</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>, usted me prometió dar una hora de tregua <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> sus penas; cúmplamelo y déjeme ver en sus ojos aquella luz tranquila que es
+               mi único consuelo; <choice>
+                  <orig>&#160;</orig>
+                  <reg>¡</reg>
+               </choice>oh! <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">&#160;</rdg>
+                  <rdg wit="#B">&#160;</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>añadió<app>
+                  <lem>—</lem>
+                  <rdg wit="#A">&#160;</rdg>
+                  <rdg wit="#B">&#160;</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>, <choice>
+                  <orig>&#160;</orig>
+                  <reg>¡</reg>
+               </choice>si me fuera posible verla un momento alegre, festiva como <choice>
+                  <orig>ántes</orig>
+                  <reg>antes</reg>
+               </choice>! </p>
+            <p>—Estoy contenta ahora, Eugenio <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">,</rdg>
+                  <rdg wit="#B">,</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>contestó ella sonriendo al fijar involuntariamente su mirada en la del <choice>
+                  <orig>jóven</orig>
+                  <reg>joven</reg>
+               </choice>, que la contemplaba con aire de súplica; pero un momento <choice>
+                  <orig>despues</orig>
+                  <reg>después</reg>
+               </choice> apartó sus ojos para ocultar las lágrimas <choice>
+                  <orig>qne</orig>
+                  <reg>que</reg>
+               </choice> subieron <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> ellos.</p>
+            <p>En eso los gritos de la indiecilla se hicieron tan agudos dentro de la choza, que
+               todo el grupo se levantó para buscar con la vista la causa de semejantes
+               alaridos.</p>
+            <p>—<choice>
+                  <orig>&#160;</orig>
+                  <reg>¡</reg>
+               </choice>Qué gritos son estos! <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">&#160;</rdg>
+                  <rdg wit="#B">&#160;</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>exclamó una voz fuerte y vieron llegar <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> un viejo inválido, quien al ver lo que pasaba levantó el <choice>
+                  <orig>bordon</orig>
+                  <reg>bordón</reg>
+               </choice> y, como Neptuno en el primer canto de <hi rend="italic">La Eneida</hi>,
+               calmó la tempestad. <choice>
+                  <orig>"</orig>
+                  <reg>«</reg>
+               </choice>Hizo huir la nube sombría, restableció la claridad<choice>
+                  <orig/>
+                  <reg>»</reg>
+               </choice>.</p>
+            <p>Quitándole <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> la vieja (que sin duda <choice>
+                  <orig>hacia</orig>
+                  <reg>hacía</reg>
+               </choice> el papel de Juno) el palo de escoba, puso en libertad <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> la <choice>
+                  <orig>Vénus</orig>
+                  <reg>Venus</reg>
+               </choice> indígena. La vieja se retiró refunfuñando y la muchacha huyó despavorida <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> desahogar sus penas <choice>
+                  <orig>detras</orig>
+                  <reg>detrás</reg>
+               </choice> de la casa, seguida por una guardia de honor compuesta de cerdos, perros y
+               gallinas, los cuales enseñados <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> recibir de sus manos el alimento diario la acompañaban <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> todas partes. </p>
+            <pb n="7" facs="#f7"/>
+            <p>Al tiempo de ponerse en <choice>
+                  <orig>pié</orig>
+                  <reg>pie</reg>
+               </choice> Margarita <choice>
+                  <orig>vió</orig>
+                  <reg>vio</reg>
+               </choice> brillar entre la grama la crucecita de plata regalada por el indio <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> Jacoba y perdida por esta en su fuga. Se estremeció al verla y se la enseñó <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> Eugenio en silencio. Este la tomó en sus manos y le dijo conmovido al cabo
+               de un momento: </p>
+            <p>—Permítame usted, Margarita, conservar esta cruz que hallamos <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> nuestros <choice>
+                  <orig>piés</orig>
+                  <reg>pies</reg>
+               </choice><choice>
+                  <orig>,</orig>
+                  <reg>&#160;</reg>
+               </choice> como el recuerdo de uno de los momentos <choice>
+                  <orig>mas</orig>
+                  <reg>más</reg>
+               </choice> dichosos...<app>
+                  <lem>&#160;</lem>
+                  <rdg wit="#A">:</rdg>
+                  <rdg wit="#B">.... :</rdg>
+                  <rdg wit="#C">&#160;</rdg>
+               </app>
+               <choice>
+                  <orig>que</orig>
+                  <reg>Que</reg>
+               </choice> ella sea la señal de una esperanza con que he soñado aquí, así como es el
+               emblema de la fe que <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> ambos nos domina. </p>
+            <p>—Guárdela usted <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">,</rdg>
+                  <rdg wit="#B">,</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>contestó Margarita en voz baja<app>
+                  <lem>—.</lem>
+                  <rdg wit="#A">:</rdg>
+                  <rdg wit="#B">:</rdg>
+                  <rdg wit="#C">—:</rdg>
+               </app>
+               <choice>
+                  <orig>acaso</orig>
+                  <reg>Acaso</reg>
+               </choice>
+               <choice>
+                  <orig>algun</orig>
+                  <reg>algún</reg>
+               </choice>
+               <choice>
+                  <orig>dia</orig>
+                  <reg>día</reg>
+               </choice> le sirva no para recordar un momento de esperanza ilusoria, sino para
+               traerle <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> la memoria la mujer que... que ha puesto su existencia <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> la sombra del que murió en una cruz. </p>
+            <p>—<choice>
+                  <orig>&#160;</orig>
+                  <reg>¡</reg>
+               </choice>Margarita! <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">&#160;</rdg>
+                  <rdg wit="#B">&#160;</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app><choice>
+                  <orig>exclamo</orig>
+                  <reg>exclamó</reg>
+               </choice> el <choice>
+                  <orig>jóven</orig>
+                  <reg>joven</reg>
+               </choice> con acento doloroso al ofrecerle el brazo para continuar su paseo<app>
+                  <lem>—</lem>
+                  <rdg wit="#A">&#160;</rdg>
+                  <rdg wit="#B">&#160;</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>. <choice>
+                  <orig>&#160;</orig>
+                  <reg>¡</reg>
+               </choice>Margarita, qué cruel es usted! </p>
+            <p>Pero <choice>
+                  <orig>ántes</orig>
+                  <reg>antes</reg>
+               </choice> de continuar mi relato, bueno será decir quiénes eran mis héroes.</p>
+            <p>II</p>
+            <p>Margarita Valdez, hija de un honrado comerciante de Bogotá, quedó huérfana desde muy
+               niña y su tutor, deseoso de salvar su responsabilidad, viéndola <choice>
+                  <orig>jóven</orig>
+                  <reg>joven</reg>
+               </choice>, hermosa y sin <choice>
+                  <orig>ningun</orig>
+                  <reg>ningún</reg>
+               </choice> pariente cercano que la pudiese proteger, procuró casarla tan luego como
+               saliera del colegio. Su modesta belleza llamó la <choice>
+                  <orig>atencion</orig>
+                  <reg>atención</reg>
+               </choice> de un militar de edad madura que pidió su mano y, <choice>
+                  <orig>ántes</orig>
+                  <reg>antes</reg>
+               </choice> de presentarse en la sociedad, Margarita se <choice>
+                  <orig>vió</orig>
+                  <reg>vio</reg>
+               </choice> casada. Su esposo, el coronel Perdomo, era el primer hombre <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> quien <choice>
+                  <orig>habia</orig>
+                  <reg>había</reg>
+               </choice> oído decirle palabras de ternura y en su entusiasmo juvenil lo revistió con
+               todas las virtudes con que las niñas adornan al personaje de sus fantasías. </p>
+            <pb n="8" facs="#f8"/>
+            <p><choice>
+                  <orig>Sinembargo</orig>
+                  <reg>Sin embargo</reg>
+               </choice>, las contrariedades y la prosa de la vida, los modales bruscos del militar
+               y las expresiones vulgares con que sazonaba su lenguaje en la intimidad aterraron <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> Margarita, lastimando sus puros sentimientos, y en breve desapareció de su <choice>
+                  <orig>corazon</orig>
+                  <reg>corazón</reg>
+               </choice> aquel amor delicado que abrigaba, pronto <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> germinar al primer soplo de ternura. Su esposo veía en ella una niña tonta
+               y reservada, que no gustaba de sus saladas anécdotas y condimentadas historias, y <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> poco buscó en una sociedad poco <choice>
+                  <orig>ó</orig>
+                  <reg>o</reg>
+               </choice> nada culta sus distracciones, volviendo <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> la casa siempre disgustado; haciendo temblar <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> Margarita con sus exigencias y regaños injustos, cada vez que la veía
+               llorar y ocultarse para sustraerse <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> sus duras palabras y aún amenazas. </p>
+            <p>Así pasó algunos años. No <choice>
+                  <orig>tenia</orig>
+                  <reg>tenía</reg>
+               </choice> parientes y el coronel le <choice>
+                  <orig>habia</orig>
+                  <reg>había</reg>
+               </choice> prohibido frecuentar sus antiguas amigas. La falta de familia, la soledad
+               en que <choice>
+                  <orig>vivia</orig>
+                  <reg>vivía</reg>
+               </choice> y el deseo de encarnar en <choice>
+                  <orig>algun</orig>
+                  <reg>algún</reg>
+               </choice> objeto digno de él ese amor entusiasta que le <choice>
+                  <orig>habia</orig>
+                  <reg>había</reg>
+               </choice> sido devuelto humillándola, la predispusieron <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> una grande <choice>
+                  <orig>exaltacion</orig>
+                  <reg>exaltación</reg>
+               </choice>, que se manifestó en forma de <choice>
+                  <orig>devocion</orig>
+                  <reg>devoción</reg>
+               </choice> entusiasta. <choice>
+                  <orig>Vivia</orig>
+                  <reg>Vivía</reg>
+               </choice> resignada, pues, siendo las fiestas de iglesia todo su solaz<ref
+                  xml:id="n_note6" n="⁶" target="#note6">⁶</ref>, y en fuerza de este régimen
+                  ascético<ref xml:id="n_note7" n="⁷" target="#note7">⁷</ref> su fresca belleza
+               empezó <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> marchitarse y <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> tomar el aspecto de tierna melacolía; su callado desaliento y la
+               indiferencia que mostraba por todo lo que <choice>
+                  <orig>sucedia</orig>
+                  <reg>sucedía</reg>
+               </choice> en el mundo hubiera llamado la <choice>
+                  <orig>atencion</orig>
+                  <reg>atención</reg>
+               </choice> de cualquier otro que no fuese el coronel. </p>
+            <p>Al fin estalló la <choice>
+                  <orig>revolucion</orig>
+                  <reg>revolución</reg>
+               </choice> encabezada por Obando. El coronel Perdomo, fiel al partido del gobierno,
+               tuvo que aceptar un puesto honroso en una lejana <choice>
+                  <orig>expedicion</orig>
+                  <reg>expedición</reg>
+               </choice> al sur de la República. No queriendo dejar enteramente sola <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> su <choice>
+                  <orig>jóven</orig>
+                  <reg>joven</reg>
+               </choice> esposa en Bogotá, pues la <choice>
+                  <orig>habia</orig>
+                  <reg>había</reg>
+               </choice> aislado completamente, decidió llevarla de paso hasta Ibagué, <choice>
+                  <orig>adonde</orig>
+                  <reg>donde</reg>
+               </choice>
+               <choice>
+                  <orig>vivia</orig>
+                  <reg>vivía</reg>
+               </choice> una hermana suya, y dejarla bajo su <choice>
+                  <orig>proteccion</orig>
+                  <reg>protección</reg>
+               </choice>. </p>
+            <pb n="9" facs="#f9"/>
+            <p>Margarita sufrió muchísimo durante el viaje: el militar, enseñado solamente <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> viajar con soldados, no <choice>
+                  <orig>comprendia</orig>
+                  <reg>comprendía</reg>
+               </choice> cómo se fatigaba tan fácilmente y la tachaba de melindrosa, lo que la
+               obligaba <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> reprimir su miedo <choice>
+                  <orig>ó</orig>
+                  <reg>o</reg>
+               </choice> cansancio para que no la riñera, hasta que por fin llegó <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> Ibagué casi exánime<ref xml:id="n_note8" n="⁸" target="#note8">⁸</ref>. </p>
+            <p>Cuando Margarita se encontró en un clima delicioso, rodeada de perfumes y de flores,
+               mimada y atendida por toda la familia de Justina (la hermana del coronel); cuando se <choice>
+                  <orig>vió</orig>
+                  <reg>vio</reg>
+               </choice>
+               <choice>
+                  <orig>enmedio</orig>
+                  <reg>en medio</reg>
+               </choice> de un alegre grupo que procuraba darle gusto en todo, sintió un bienestar,
+               una <choice>
+                  <orig>satisfaccion</orig>
+                  <reg>satisfacción</reg>
+               </choice> tranquila, una serenidad de ánimo que <choice>
+                  <orig>jamas</orig>
+                  <reg>jamás</reg>
+               </choice>
+               <choice>
+                  <orig>habia</orig>
+                  <reg>había</reg>
+               </choice> experimentado. Poco <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> poco su carácter mismo <choice>
+                  <orig>parecia</orig>
+                  <reg>parecía</reg>
+               </choice> haber variado, su mirada recobró el brillo perdido <choice>
+                  <orig>hacia</orig>
+                  <reg>hacía</reg>
+               </choice> años y un fuego interno, una luz nueva, calentó <choice>
+                  <orig>é</orig>
+                  <reg>e</reg>
+               </choice> iluminó su espíritu. Sus modales <choice>
+                  <orig>retraidos</orig>
+                  <reg>retraídos</reg>
+               </choice> y excesiva modestia cambiáronse en cierta gracia y elegancia natural: su
+               voz dulce pero melancólica tomó un timbre animado y alegre que nunca <choice>
+                  <orig>habia</orig>
+                  <reg>había</reg>
+               </choice> tenido; su andar lento <choice>
+                  <orig>é</orig>
+                  <reg>e</reg>
+               </choice> indolente convirtióse en ligero y aéreo y <choice>
+                  <orig>sí</orig>
+                  <reg>si</reg>
+               </choice> se la hallaba en todas las fiestas religiosas <choice>
+                  <orig>parecia</orig>
+                  <reg>parecía</reg>
+               </choice> haber transigido<ref xml:id="n_note9" n="⁹" target="#note9">⁹</ref> con la
+               rigidez de su vestido y por primera vez permitió que la adornasen y cuidó de su
+               belleza. </p>
+            <pb n="10" facs="#f10"/>
+            <p><choice>
+                  <orig>&#160;</orig>
+                  <reg>¡</reg>
+               </choice>Pobre Margarita! Atravesaba sin comprenderlo el <choice>
+                  <orig>oásis</orig>
+                  <reg>oasis</reg>
+               </choice> de su vida desierta, el único punto brillante, el solo tiempo en que pasó
+               horas de completo contento. ¿Quién no guarda en su memoria el recuerdo de una época
+               en que, sin saberlo, gozaba una dicha que <choice>
+                  <orig>jamas</orig>
+                  <reg>jamás</reg>
+               </choice> volverá? <choice>
+                  <orig>&#160;</orig>
+                  <reg>¡</reg>
+               </choice>Hay años, meses, <choice>
+                  <orig>dias</orig>
+                  <reg>días</reg>
+               </choice> que forman en nuestra existencia puntos brillantes sobre los cuales
+               detenemos tiernamente nuestra mirada al recorrer en la memoria los años que pasaron!
+               Aquella tranquilidad cambióse en breve en una vaga <choice>
+                  <orig>aprehension</orig>
+                  <reg>aprehensión</reg>
+               </choice> y las horas de sereno contento en <choice>
+                  <orig>dias</orig>
+                  <reg>días</reg>
+               </choice> de penas, dudas y sobresalto. </p>
+            <p>Pocas semanas <choice>
+                  <orig>despues</orig>
+                  <reg>después</reg>
+               </choice> de su llegada <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> Ibagué se presentó otro asilado en casa de Justina. Era un <choice>
+                  <orig>jóven</orig>
+                  <reg>joven</reg>
+               </choice> pariente suyo, el que habiéndose declarado abiertamente defensor del
+               partido que él creía oprimido, es decir<choice>
+                  <orig>&#160;</orig>
+                  <reg>,</reg>
+               </choice> el de los revolucionarios, <choice>
+                  <orig>habia</orig>
+                  <reg>había</reg>
+               </choice> tenido al fin que dejar <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> Bogotá. Su lenguaje audaz y el liberalismo de sus escritos lo hicieron
+               notable entre los progresistas, pero siendo enemigo de las luchas armadas y teniendo, <choice>
+                  <orig>ademas</orig>
+                  <reg>además</reg>
+               </choice>, en el ejército del gobierno un hermano y varios parientes, Eugenio no
+               quiso cooperar activamente en la <choice>
+                  <orig>rebelion</orig>
+                  <reg>rebelión</reg>
+               </choice> y, viéndose amenazado de <choice>
+                  <orig>prision</orig>
+                  <reg>prisión</reg>
+               </choice> en la capital, prefirió, <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> instancias de su familia, ir <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> lbagué <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> esperar allí el desenlace de los acontecimientos políticos.</p>
+            <p>La fisonomía interesante y bella de Margarita, su melancolía genial y el retiro
+               forzado en que <choice>
+                  <orig>vivia</orig>
+                  <reg>vivía</reg>
+               </choice> inspiraron <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> Eugenio una gran <choice>
+                  <orig>compasion</orig>
+                  <reg>compasión</reg>
+               </choice> y natural simpatía; pero en Bogotá no <choice>
+                  <orig>habia</orig>
+                  <reg>había</reg>
+               </choice> visitado nunca la casa de Perdomo, que era pariente suyo, <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> causa de la diferencia de sus opiniones políticas, que el coronel combatía
+               con suma brusquedad; <choice>
+                  <orig>ademas</orig>
+                  <reg>además</reg>
+               </choice>, porque <choice>
+                  <orig>sabia</orig>
+                  <reg>sabía</reg>
+               </choice> que en aquella casa no <choice>
+                  <orig>tenia</orig>
+                  <reg>tenía</reg>
+               </choice> entrada frecuente otro hombre que el dueño de ella. </p>
+            <pb n="11" facs="#f11"/>
+            <p>El clima medio de los trópicos es delicioso. La vida sencilla y perezosa que se
+               lleva, la llaneza del trato social entre los que se <choice>
+                  <orig>reunen</orig>
+                  <reg>reúnen</reg>
+               </choice> en las horas de descanso, la franqueza festiva de sus habitantes, los
+               paseos <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice>
+               <choice>
+                  <orig>pié</orig>
+                  <reg>pie</reg>
+               </choice> y <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> caballo por preciosos parajes, los baños en <choice>
+                  <orig>rios</orig>
+                  <reg>ríos</reg>
+               </choice> frescos y cristalinos, de cuyo seno salen las muchachas con la cabellera
+               suelta y perfumada, las noches estrelladas en que un ambiente suave circula cargado
+               de aromas penetrantes, el canto de variadísimos bambucos al son de tiples y guitarras
+               que se oyen por todas partes al caer el sol: todo esto despierta en el alma el
+               sentimiento de lo bello y tal <choice>
+                  <orig>disposicion</orig>
+                  <reg>disposición</reg>
+               </choice>
+               <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> la ternura que al no tener el <choice>
+                  <orig>corazon</orig>
+                  <reg>corazón</reg>
+               </choice> ocupado ya por <choice>
+                  <orig>algun</orig>
+                  <reg>algún</reg>
+               </choice> afecto dominante, no puede satisfacerse sino amando. </p>
+            <p>Habiendo vivido en Bogotá, <choice>
+                  <orig>en</orig>
+                  <reg>&#160;</reg>
+               </choice> donde las costumbres son tan diferentes, Margarita pudo gozar con mayor
+               encanto de aquellas escenas tan nuevas para ella. La llegada de Eugenio <choice>
+                  <orig>dió</orig>
+                  <reg>dio</reg>
+               </choice>
+               <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> su existencia un <choice>
+                  <orig>interes</orig>
+                  <reg>interés</reg>
+               </choice>, una luz desconocida cuyo peligro no comprendió al principio. La amena <choice>
+                  <orig>conversacion</orig>
+                  <reg>conversación</reg>
+               </choice> del <choice>
+                  <orig>jóven</orig>
+                  <reg>joven</reg>
+               </choice>
+               <choice>
+                  <orig>fué</orig>
+                  <reg>fue</reg>
+               </choice> una <choice>
+                  <orig>revelacion</orig>
+                  <reg>revelación</reg>
+               </choice> para su espíritu, que <choice>
+                  <orig>jamas</orig>
+                  <reg>jamás</reg>
+               </choice>
+               <choice>
+                  <orig>habia</orig>
+                  <reg>había</reg>
+               </choice> sentido el vivificante influjo de las ideas de un hombre pensador, poniendo <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> su alcance materias que hasta <choice>
+                  <orig>entónces</orig>
+                  <reg>entonces</reg>
+               </choice> creyó áridas <choice>
+                  <orig>é</orig>
+                  <reg>e</reg>
+               </choice> incomprensibles. <choice>
+                  <orig>&#160;</orig>
+                  <reg>¡</reg>
+               </choice>Cuántos y cuán magníficos campos de ciencia se extendieron ante la soñadora <choice>
+                  <orig>imaginacion</orig>
+                  <reg>imaginación</reg>
+               </choice> de la <choice>
+                  <orig>jóven</orig>
+                  <reg>joven</reg>
+               </choice>! Dedicóse nuevamente al estudio del <choice>
+                  <orig>frances</orig>
+                  <reg>francés</reg>
+               </choice> que había aprendido con provecho en el colegio y que <choice>
+                  <orig>habia</orig>
+                  <reg>había</reg>
+               </choice> dejado olvidar casi enteramente. En breve pudo recorrer la pequeña librería
+               que Eugenio llevaba consigo, adivinando lo que no comprendía con aquella <choice>
+                  <orig>intuicion</orig>
+                  <reg>intuición</reg>
+               </choice> que distingue <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> la mujer y más <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> la mujer amante. Olvidó en gran parte sus escrúpulos y aún llegó <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> leer libros que <choice>
+                  <orig>ántes</orig>
+                  <reg>antes</reg>
+               </choice> miraba con horror. Muy luego echó de ver que la continua sociedad de
+               Eugenio era demasiado agradable para ella y se propuso escasearla buscando en sus
+               devociones y prácticas religiosas un <choice>
+                  <orig>interes</orig>
+                  <reg>interés</reg>
+               </choice> mayor, pero ya este fervor místico se <choice>
+                  <orig>habia</orig>
+                  <reg>había</reg>
+               </choice> enfriado e irresistiblemente <choice>
+                  <orig>volvia</orig>
+                  <reg>volvía</reg>
+               </choice>
+               <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> sus estudios y <choice>
+                  <orig>conversacion</orig>
+                  <reg>conversación</reg>
+               </choice> con aquel. </p>
+            <pb n="12" facs="#f12"/>
+            <p>Por su parte el <choice>
+                  <orig>jóven</orig>
+                  <reg>joven</reg>
+               </choice> sentía más agudamente el <choice>
+                  <orig>aguijon</orig>
+                  <reg>aguijón</reg>
+               </choice> del <choice>
+                  <orig>remordimiénto</orig>
+                  <reg>remordimiento</reg>
+               </choice>, pues no podía ocultársele que su <choice>
+                  <orig>corazon</orig>
+                  <reg>corazón</reg>
+               </choice> se <choice>
+                  <orig>habia</orig>
+                  <reg>había</reg>
+               </choice> conmovido hondamente; leía como en un libro abierto las luchas <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> que se entregaba Margarita y comprendía mejor que ella lo que pasaba en su <choice>
+                  <orig>corazon</orig>
+                  <reg>corazón</reg>
+               </choice>. Ambos representaban la eterna <orig>imágen</orig>
+               <reg>imagen</reg> de la mariposa que quema sus alas en la luz que la atrae, aunque
+               sienta el calor y comprenda el peligro. </p>
+            <p>Margarita <choice>
+                  <orig>veia</orig>
+                  <reg>veía</reg>
+               </choice> en Eugenio el tipo adivinado en sus primeros años y que <choice>
+                  <orig>despues</orig>
+                  <reg>después</reg>
+               </choice> creyó no existía verdaderamente. Eugenio encontró en ella el bello ideal de
+               la mujer soñada en los raptos de <choice>
+                  <orig>inspiracion</orig>
+                  <reg>inspiración</reg>
+               </choice> poética.</p>
+            <p>De vez en cuando llegaban noticias y cartas del coronel en las que expresaba <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> su modo un sincero amor <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> su esposa. Margarita las recibía temblando y las leía llena de sobresalto y
+               vago temor y disgustada consigo misma se encerraba en su cuarto, pasando <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> solas con su conciencia largas horas de indecible angustia llorando y
+               pidiendo <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> Dios fortaleza. Eugenio sentía el contragolpe de su pena y procuraba
+               distraerla buscando <choice>
+                  <orig>algun</orig>
+                  <reg>algún</reg>
+               </choice> nuevo objeto de estudio en <choice>
+                  <orig>la</orig>
+                  <reg>el</reg>
+               </choice> análisis de obras selectas de literatura <choice>
+                  <orig>ó</orig>
+                  <reg>o</reg>
+               </choice> en la <choice>
+                  <orig>explicacion</orig>
+                  <reg>explicación</reg>
+               </choice> de los siempre interesantes fenómenos de la naturaleza. </p>
+            <pb n="13" facs="#f13"/>
+            <p>Al terminar el mes de diciembre de aquel año la familia de Justina <choice>
+                  <orig>fué</orig>
+                  <reg>fue</reg>
+               </choice>
+               <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> pasar algunas horas en una hacienda cerca de Ibagué. El <choice>
+                  <orig>dia</orig>
+                  <reg>día</reg>
+               </choice> sereno y luminoso ostentaba todo el encanto de que se goza en aquel clima
+               privilegiado. <choice>
+                  <orig>Despues</orig>
+                  <reg>Después</reg>
+               </choice> de haber recorrido con la familia varios puntos de donde se <choice>
+                  <orig>descubrian</orig>
+                  <reg>descubrían</reg>
+               </choice> bellísimas vistas, Eugenio y Margarita se encontraron sin haberlo advertido
+               y por primera vez solos. <choice>
+                  <orig>&#160; </orig>
+                  <reg>¡</reg>
+               </choice>Cuántas veces aquel <choice>
+                  <orig>habia</orig>
+                  <reg>había</reg>
+               </choice> soñado con la fortuna de hablarle <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> solas dando sueltas al raudal de su ternura! Mas al ver colmadas sus
+               esperanzas se turbó y sintió un vago remordimiento. <choice>
+                  <orig>&#160; </orig>
+                  <reg>¿</reg>
+               </choice>Qué deseaba saber? <choice>
+                  <orig>&#160; </orig>
+                  <reg>¿</reg>
+               </choice>Acaso la candorosa y expresiva fisonomía de Margarita no le <choice>
+                  <orig>habia</orig>
+                  <reg>había</reg>
+               </choice> revelado mil veces sus sentimientos? Decirle lo que pasaba en su propio <choice>
+                  <orig>corazon</orig>
+                  <reg>corazón</reg>
+               </choice> era desgarrar el último velo de la duda, que <app>
+                  <lem>aún</lem>
+                  <rdg wit="#A">aun</rdg>
+                  <rdg wit="#B">aún</rdg>
+                  <rdg wit="#C">aún</rdg>
+               </app>
+               <choice>
+                  <orig>podia</orig>
+                  <reg>podía</reg>
+               </choice> mantenerla casi tranquila. Esto pensaba Eugenio y le sellaba los labios.
+               Llegaron <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> orillas de un cristalino arroyo que <choice>
+                  <orig>corria</orig>
+                  <reg>corría</reg>
+               </choice> saltando sobre piedras y brillante arena, sombreado por un bosquecillo de
+               helechos, y se sentaron conmovidos bajo el ancho y tupido ramaje de un caucho. Ambos
+               continuaron silenciosos, ella con los ojos bajos, él contemplándola intensamente. <choice>
+                  <orig>Habia</orig>
+                  <reg>Había</reg>
+               </choice> llegado el momento decisivo para la suerte de <choice>
+                  <orig>ámbos</orig>
+                  <reg>ambos</reg>
+               </choice> y lo que <choice>
+                  <orig>habrian</orig>
+                  <reg>habían</reg>
+               </choice> querido ocultarse estallaba en su silencio mismo. Al verla tan bella y leer
+               en su fisonomía lo que pasaba en su pensamiento Eugenio lo olvidó todo.</p>
+            <p>—Margarita <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">,</rdg>
+                  <rdg wit="#B">,</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>dijo tomándole una mano, que ella no tuvo fuerzas para retirar<app>
+                  <lem>—</lem>
+                  <rdg wit="#A">&#160;</rdg>
+                  <rdg wit="#B">&#160;</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>, permítame usted que aproveche este momento para explicarle lo que pasa en mi <choice>
+                  <orig>corazon</orig>
+                  <reg>corazón</reg>
+               </choice>. </p>
+            <p>Pero en ese momento se oyeron pasos y una de las hijas de Justina se acercó gritando: </p>
+            <p>—<choice>
+                  <orig>&#160;</orig>
+                  <reg>¡</reg>
+               </choice>Margarita! <choice>
+                  <orig>&#160;</orig>
+                  <reg>¡</reg>
+               </choice><choice>
+                  <orig>cuánto</orig>
+                  <reg>Cuánto</reg>
+               </choice> la he buscado! La necesitan de Ibagué<app>
+                  <lem>—</lem>
+                  <rdg wit="#A">,</rdg>
+                  <rdg wit="#B">,</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>añadió<app>
+                  <lem>—</lem>
+                  <rdg wit="#A">&#160;</rdg>
+                  <rdg wit="#B">&#160;</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>: <choice>
+                  <orig>&#160;</orig>
+                  <reg>¡</reg>
+               </choice>llegó un expreso de Pasto!</p>
+            <p>—<choice>
+                  <orig>&#160;</orig>
+                  <reg>¿</reg>
+               </choice>Qué ha sucedido? <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">&#160;</rdg>
+                  <rdg wit="#B">&#160;</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>preguntó <choice>
+                  <orig>ésta</orig>
+                  <reg>esta</reg>
+               </choice> poniéndose en <choice>
+                  <orig>pié</orig>
+                  <reg>pie</reg>
+               </choice> y desfallecida <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> impulso de emociones tan contrarias. </p>
+            <p>—No sé<choice>
+                  <orig>....</orig>
+                  <reg>...</reg>
+               </choice>
+               <choice>
+                  <orig>el</orig>
+                  <reg>El</reg>
+               </choice> posta<ref xml:id="n_note10" n="¹⁰" target="#note10">¹⁰</ref> lo dirá.</p>
+            <p>—<choice>
+                  <orig>Tráe</orig>
+                  <reg>¿Trae</reg>
+               </choice> alguna mala noticia?</p>
+            <pb n="14" facs="#f14"/>
+            <p>—Venga <choice>
+                  <orig>á</orig>
+                  <reg>a</reg>
+               </choice> la casa <app>
+                  <lem>—</lem>
+                  <rdg wit="#A">,</rdg>
+                  <rdg wit="#B">,</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>contestó la niña muy turbada<app>
+                  <lem>—</lem>
+                  <rdg wit="#A">&#160;</rdg>
+                  <rdg wit="#B">&#160;</rdg>
+                  <rdg wit="#C">—</rdg>
+               </app>, mi madre la espera.</p>
+            <p>Asustada, temblando llegó <choice>
+                  <orig>adonde</orig>
+                  <reg>a donde</reg>
+               </choice> la aguardaba Justina, que la recibió llorando. </p>
+            <p>Perdomo había muerto sorprendido por una guerrilla enemiga. </p>
+            <p>[...]</p>
+
+
+
+         </div>
+         <div type="notes">
+            <head><hi rend="italic">Notas explicativas</hi></head>
+            <note xml:id="note1" n="¹" target="#n_note1">
+               <hi rend="italic">¿Quién querría curarte, dolor inmortal? Tú constituyes la trama
+                  misma y el fondo de la vida. Si entre los días oscuros se mezclan algunos días de
+                  felicidad,como granos dispersos, es tu hilo el que los une (traducción
+                  propia).</hi>
+            </note>
+            <note xml:id="note2" n="²" target="#n_note2"> «Arbusto de América del Sur, de la familia
+               de las solanáceas, de unos cuatro metros de altura, muy ramoso, de hojas grandes,
+               vellosas y aovadas, flores blancas de forma tubular y fruto drupáceo. Despide olor
+               desagradable de día y grato y narcótico de noche, y comido el fruto, causa delirio»
+               (Real Academia Española, 2024). </note>
+
+            <note xml:id="note3" n="³" target="#n_note3"> «Árbol de hasta seis metros de altura, de
+               forma piramidal, hojas grandes y flores amarillas; su madera resistente se usa en la
+               construcción» (Real Academia Española, 2024). </note>
+            <note xml:id="note4" n="⁴" target="#n_note4"> «Diminutivo de sementera, es decir,
+               espacio de tierra sembrada» (Real Academia Española, 2024).</note>
+            <note xml:id="note5" n="⁵" target="#n_note5"> Del verbo remachar. La palabra consta de
+               cuatro acepciones: En primer lugar, «machacar la punta o la cabeza del clavo ya
+               clavado, para mayor firmeza». En segundo lugar, «percutir el extremo del roblón
+               colocado en el correspondiente taladro hasta formarle cabeza que lo sujete y afirme»
+               o «sujetar con remaches». Finalmente, podría referirse a «recalcar, afianzar,
+               robustecer lo dicho o hecho» (Real Academia Española, 2024). Para este contexto, la
+               cuarta definición podría ajustarse más a la referencia del indio al marcar el control
+               o presión de su antigua esposa.</note>
+            <note xml:id="note6" n="⁶" target="#n_note6"> «Consuelo, placer, esparcimiento, alivio
+               de los trabajos» (Real Academia Española, 2024).</note>
+            <note xml:id="note7" n="⁷" target="#n_note7"> Según el contexto se podría ajustar la
+               concepción de «sobrio, muy austero» (Real Academia Española, 2024).</note>
+            <note xml:id="note8" n="⁸" target="#n_note8"> «Sumamente debilitado, sin aliento,
+               desmayado» o «sin señal de vida o sin vida» (Real Academia Española, 2024).</note>
+            <note xml:id="note9" n="⁹" target="#n_note9"> Se define como «consentir en parte con lo
+               que no se cree justo, razonable o verdadero, a fin de acabar con una diferencia».
+               También como «ajustar algún punto dudoso o litigioso, conviniendo las partes
+               voluntariamente en algún medio que componga y parta la diferencia de la disputa»
+               (Real Academia Española, 2024). Para este caso se podría convenir en tomar la segunda
+               acepción, aunque en sentido metáforico, pues la palabra parece hacer referencia a la
+               negociación entre Margarita y la rigidez de su vestido, acuerdo que le da libertad y
+               ligereza.</note>
+            <note xml:id="note10" n="¹⁰" target="#n_note10"> «Persona que corre y va por la posta
+               [correo] a una diligencia, propia o ajena» (Real Academia Española, 2024).</note>
+
+         </div>
+
+         <div type="bibliography">
+            <head><hi rend="italic">Bibliografía</hi></head>
+            <listBibl>
+               <bibl xml:id="bibl1">
+                  <author>Open AI</author>
+                  <date when="2025">(2024).</date>
+                  <title>Chat GPT</title>
+                  <ref target="https://chatgpt.com/c/68b76bcc-1594-8330-b534-9e8d2050b53f"
+                     >https://chatgpt.com/c/68b76bcc-1594-8330-b534-9e8d2050b53f</ref>
+               </bibl>
+               <bibl xml:id="bibl2">
+                  <author>Diccionario de la lengua Española</author>
+                  <date when="2025">(2024).</date>
+                  <title>Borrachero</title>
+                  <ref target="https://dle.rae.es/borrachero?m=form"
+                     >https://dle.rae.es/borrachero?m=form</ref>
+               </bibl>
+               <bibl xml:id="bibl3">
+                  <author>Diccionario de americanismos</author>
+                  <date when="2025">(2024).</date>
+                  <title>Arboloco</title>
+                  <ref target="https://www.asale.org/damer/arboloco"
+                     >https://www.asale.org/damer/arboloco</ref>
+               </bibl>
+               <bibl xml:id="bibl4">
+                  <author>Diccionario de la lengua Española</author>
+                  <date when="2025">(2024).</date>
+                  <title>Sementera</title>
+                  <ref target="https://dle.rae.es/sementera?m=form"
+                     >https://dle.rae.es/sementera?m=form</ref>
+               </bibl>
+               <bibl xml:id="bibl5">
+                  <author>Diccionario de la lengua Española</author>
+                  <date when="2025">(2024).</date>
+                  <title>Remachar</title>
+                  <ref target="https://dle.rae.es/remachar?m=form"
+                     >https://dle.rae.es/remachar?m=form</ref>
+               </bibl>
+               <bibl xml:id="bibl6">
+                  <author>Diccionario de la lengua Española</author>
+                  <date when="2025">(2024).</date>
+                  <title>Solaz</title>
+                  <ref target="https://dle.rae.es/solaz?m=form"
+                     >https://dle.rae.es/solaz?m=form</ref>
+               </bibl>
+               <bibl xml:id="bibl7">
+                  <author>Diccionario de la lengua Española</author>
+                  <date when="2025">(2024).</date>
+                  <title>Ascético</title>
+                  <ref target="https://dle.rae.es/asc%C3%A9tico?m=form"
+                     >https://dle.rae.es/asc%C3%A9tico?m=form</ref>
+               </bibl>
+               <bibl xml:id="bibl8">
+                  <author>Diccionario de la lengua Española</author>
+                  <date when="2025">(2024).</date>
+                  <title>Exánime</title>
+                  <ref target="https://dle.rae.es/ex%C3%A1nime?m=form"
+                     >https://dle.rae.es/ex%C3%A1nime?m=form</ref>
+               </bibl>
+               <bibl xml:id="bibl9">
+                  <author>Diccionario de la lengua Española</author>
+                  <date when="2025">(2024).</date>
+                  <title>Transigir</title>
+                  <ref target="https://dle.rae.es/transigir?m=form"
+                     >https://dle.rae.es/transigir?m=form</ref>
+               </bibl>
+               <bibl xml:id="bibl10">
+                  <author>Diccionario de la lengua Española</author>
+                  <date when="2025">(2024).</date>
+                  <title>Posta</title>
+                  <ref target="https://dle.rae.es/posta?m=form"
+                     >https://dle.rae.es/posta?m=form</ref>
+               </bibl>
+            </listBibl>
+         </div>
+      </body>
+   </text>
+</TEI>
